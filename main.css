@@ -1,0 +1,30 @@
+h1 {
+	text-align:center; 
+	color:#ccddff
+}
+h2 {
+	color:#9988ff
+}
+p {
+	color:#99aaff
+}
+ul {
+	color:#99aaff
+}
+ol {
+	color:#99aaff
+}
+.text {
+    width: 280px;
+    height: auto;
+    background-color: rgba(255,255,255,0.6);
+    padding: 10px;
+    color: #0000FF;
+    border-radius: 18px 18px 18px 18px;
+}
+.burbuja {
+	padding:10px 50px 10px 50px;
+	width:180px;
+	height:auto;
+	border-radius: 200px 200px 200px 200px;
+}
